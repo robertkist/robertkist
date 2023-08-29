@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-🔭 I’m currently working on art pipeline solutions for games like League, TFT and Valorant
+🔭 I’m currently working on tools and pipeline solutions for games like League, TFT and Valorant
 
-🌱 I’m currently learning more Houdini and Vex. I also work on an Ultima III style RPG in my spare time.
+🌱 I’m interested in procedural generation, UX, HCI and real-time rendering.
 
 💬 Ask me about: game development, project management, software engineering
 
-😄 Languages: Python, C, Vex, (some) C++, (some) Go, (some) Kotlin, (a bit of) Java, (less and less) MaxScript
+😄 Tech: mostly UE5, Houdini, Python, C / C++, and Vex (but sometimes Go, Java, SQL and MongoDB)
 
-⚡ Fun fact: I collect old computers. I own an Amiga 3000, a 128k Mac and a NeXT Station
+⚡ Fun fact: I enjoy retro computing, owning an A3000, a 128k Mac, a Quadra 610 and a NeXT station
 
 <!--
 **robertkist/robertkist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
