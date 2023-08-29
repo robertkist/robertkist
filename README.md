@@ -2,11 +2,11 @@
 
 🔭 I’m currently working on tools and pipeline solutions for games like League, TFT and Valorant
 
-🌱 I’m interested in procedural generation, UX, HCI and real-time rendering.
+🌱 I’m interested in procedural generation, UX, HCI and real-time rendering
 
 💬 Ask me about: game development, project management, software engineering
 
-😄 Tech: mostly UE5, Houdini, Python, C / C++, and Vex (but sometimes Go, Java, SQL and MongoDB)
+😄 Tech: mostly UE5, Houdini, Blender, Python, C / C++, and Vex (but sometimes Go, Java, C#, MaxScript, SQL and MongoDB)
 
 ⚡ Fun fact: I enjoy retro computing, owning an A3000, a 128k Mac, a Quadra 610 and a NeXT station
 
