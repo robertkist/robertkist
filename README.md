@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on tools and pipeline solutions for games like League, TFT and Valorant
+🔭 I’m currently working as tech art director in the video games industry in sunny Singapore
 
 🌱 I’m interested in procedural generation, UX, HCI and real-time rendering
 
@@ -8,7 +8,7 @@
 
 😄 Tech: mostly UE5, Houdini, Blender, Python, C / C++, and Vex (but sometimes Go, Java, C#, MaxScript, SQL and MongoDB)
 
-⚡ Fun fact: I enjoy retro computing, owning an A3000, a 128k Mac, a Quadra 610 and a NeXT station
+⚡ Geeky hobbies: I enjoy retro computing, owning an A3000 (BFG9060, XSurf100, ZZ9000), a 128k Mac, a Quadra 610 (with a rare Sonnet 68040@50 QuadDoubler), a Colour Classic, a no-name 486 PC (but with a neat LAPC-I sound card) and a NeXT station. I'm also trying to develop a game for Panic's Playdate handheld
 
 <!--
 **robertkist/robertkist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
