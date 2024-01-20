@@ -8,7 +8,7 @@
 
 😄 Tech: mostly UE5, Houdini, Blender, Python, C / C++, and Vex (but sometimes Go, Java, C#, MaxScript, SQL and MongoDB)
 
-⚡ Geeky hobbies: I enjoy retro computing, owning an A3000 (BFG9060, XSurf100, ZZ9000), a 128k Mac, a Quadra 610 (with a rare Sonnet 68040@50 QuadDoubler), a Colour Classic, a no-name 486 PC (but with a neat LAPC-I sound card) and a NeXT station. I'm also trying to develop a game for Panic's Playdate handheld in my spare time to sharpen my C programming skills.
+⚡ Geeky hobbies: I enjoy retro computing, owning an Amiga 3000, an 68k Mac, a NeXT station and an old 486 PC for some DOS gaming.
 
 <!--
 **robertkist/robertkist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
