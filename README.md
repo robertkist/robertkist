@@ -6,7 +6,7 @@
 
 ⚡ Geeky hobbies: I enjoy retro computing. I own an Amiga 3000, a 68k Mac, a NeXT station and an old 486 PC.
 
-🎮 Games:CRPGs, MMORPGs, Skyrim, AC, Monkey Island, WoW, Baldur's Gate, Ultima, Civ and all stuff running on ScummVM. 
+🎮 Games: CRPGs, MMORPGs, Skyrim, AC, Monkey Island, WoW, Baldur's Gate, Ultima, Civ and all stuff running on ScummVM. 
 
 ⭐ If you like my software, you don't have to buy me a coffee, but you could star my repos. Thank you! 😄
 
